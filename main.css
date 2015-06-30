@@ -1,0 +1,43 @@
+.container {
+  margin: 0 auto;  
+  width: 750px;
+}
+
+#precios {
+	margin-bottom: 0;
+}
+
+#pricing ul {
+	/*margin: 0 auto;*/
+	margin-left: 25px;
+}
+
+.pricing_1 {
+	float: left;
+}
+
+.pricing_2 {
+	float: left;	
+}
+
+.pricing_3 {
+	float: left;
+}
+
+.pricing_features li {
+	list-style-type: square;
+}
+
+.clear {
+	clear: both;
+}
+
+h5 {
+	margin-left: 70px;
+}
+
+
+
+/*#precios {
+	padding-bottom: 0px;	
+}*/
